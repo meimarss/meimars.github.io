@@ -1,0 +1,18 @@
+/* styles.css */
+
+body {
+  font-family: 'Helvica', sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+}
+
+header {
+  text-align: center;
+  padding: 20px;
+  background-color: #c19ae3;
+  color: #652f14;
+}
+
+section {
+  margin: 20px;
+}
